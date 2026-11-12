@@ -19,7 +19,7 @@ from service import (ROOT, InputError, load_table, max_deviation_percent, result
 from thermal_analysis import config
 
 # Fill in once the code is public, e.g. "https://github.com/<account>/Thermal_Impedance_Analysis"
-REPO_URL = ""
+REPO_URL = "https://thermalimpedanceanalysis.streamlit.app/"
 
 EXAMPLES = sorted((ROOT / "thermal_analysis" / "input_data").glob("*.xlsx"))
 DEFAULT_EXAMPLE = "MEAS_IGBT.xlsx"
