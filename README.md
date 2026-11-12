@@ -48,5 +48,5 @@ network, as in the command line; the window computes them with PyRth.
 
 ## Help and licence
 
-Questions and bug reports: Jules Scraigne (TODO: e-mail or issue tracker).
-Licence: TODO.
+Questions and bug reports: Jules Scraigne (jules.scraigne@gmail.com).
+Licence: MIT.
