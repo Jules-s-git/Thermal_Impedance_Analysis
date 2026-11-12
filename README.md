@@ -13,7 +13,7 @@ least-squares fit.
 Nothing to install: upload a file (or pick an example), click *Process*, read
 the two networks and the structure functions, download the results.
 
-Online: TODO (link to the app, once deployed).
+Online: https://thermalimpedanceanalysis.streamlit.app.
 
 ## Run it on your computer
 
