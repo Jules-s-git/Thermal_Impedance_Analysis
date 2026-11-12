@@ -1,0 +1,12 @@
+# Versions tested with Python 3.12 (window and command line) and 3.13 (command line).
+# PyRth, used by the window, requires numpy < 2. The command line alone also
+# runs with NumPy 2 (tested with 2.5).
+numpy>=1.26.4,<2
+scipy>=1.14
+numba>=0.60
+joblib>=1.3
+pandas>=2.2
+openpyxl>=3.1
+matplotlib>=3.9
+pillow>=10
+PyRth==1.2.0
